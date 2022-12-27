@@ -22,8 +22,9 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <section className={utilStyles.headingMd} >
-        <p>Hello, I'M Shu. I'm a software engineer and translator (English/Japanese).
-          You can contact me on Twitter.
+        <p>Hello, I'm just a guy checking out yet another javascript framework. However, this one
+          is something special, something else. Oh and it has support for Typescript. To me it sounds
+          like a lightweight version of Angular.
         </p>
         <p>
           (This is a sample website - you'll be building a site like this on {' '}
